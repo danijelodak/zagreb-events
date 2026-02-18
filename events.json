@@ -110,16 +110,7 @@
   {
     "title": "Detalji o filmu",
     "venue": "kino",
-    "url": "https://kinokinoteka.hr/program/mildred-pierce/",
-    "source": "https://kinokinoteka.hr/program/",
-    "category": "film",
-    "date": null,
-    "city": "Zagreb"
-  },
-  {
-    "title": "Mildred Pierce",
-    "venue": "kino",
-    "url": "https://kinokinoteka.hr/program/mildred-pierce/",
+    "url": "https://kinokinoteka.hr/program/hamnet/",
     "source": "https://kinokinoteka.hr/program/",
     "category": "film",
     "date": null,
@@ -207,9 +198,36 @@
     "city": "Zagreb"
   },
   {
+    "title": "Ljubav koja ostaje",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/ljubav-koja-ostaje/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "La Grazia",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/la-grazia-2/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
     "title": "Hladnoruki kažnjenik",
     "venue": "kino",
     "url": "https://kinokinoteka.hr/program/hladnoruki-kaznjenik/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Tajni agent",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/tajni-agent-2/",
     "source": "https://kinokinoteka.hr/program/",
     "category": "film",
     "date": null,
@@ -255,6 +273,15 @@
     "title": "Julie & Julia",
     "venue": "kino",
     "url": "https://kinokinoteka.hr/program/julie-julia/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Među bogovima",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/medu-bogovima/",
     "source": "https://kinokinoteka.hr/program/",
     "category": "film",
     "date": null,
