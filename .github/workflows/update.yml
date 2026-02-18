@@ -20,7 +20,8 @@ jobs:
 
       - name: Install packages
         run: |
-          pip install requests beautifulsoup4 feedparser jinja2
+          pip install requests beautifulsoup4 feedparser jinja2 playwright
+          python -m playwright install chromium
 
       - name: Run scraper
         run: python scrape.py
