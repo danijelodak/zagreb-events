@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Kulturni događaji Zagreb</title>
+<style>
+body { font-family: Arial; max-width: 800px; margin: 40px auto; }
+.card { border-bottom: 1px solid #ddd; padding: 10px 0; }
+button { margin-right: 10px; }
+</style>
+</head>
+<body>
+
+<h1>Kulturni događaji – Zagreb</h1>
+
+<button onclick="filter('all')">Svi</button>
+<button onclick="filter('film')">Film</button>
+<button onclick="filter('koncert')">Koncert</button>
+<button onclick="filter('kazalište')">Kazalište</button>
+<button onclick="filter('muzej')">Muzeji</button>
+<button onclick="filter('portal')">Portali</button>
+<br><br>
+
+<button onclick="dateFilter('all')">Svi datumi</button>
+<button onclick="dateFilter('today')">Danas</button>
+<button onclick="dateFilter('week')">Ovaj tjedan</button>
+
+<div id="events">
+{{events}}
+</div>
+
+<script>
+function filter(cat){
+  document.querySelectorAll(".card").forEach(e=>{
+    e.style.display =
+      (cat=="all" || e.dataset.cat==cat) ? "block":"none";
+  })
+}
+
+function dateFilter(mode){
+  const today = new Date();
+  const week = new Date();
+  week.setDate(today.getDate()+7);
+
+  document.querySelectorAll(".card").forEach(e=>{
+    const d = e.dataset.date;
+    if(!d){
+        e.style.display = (mode=="all") ? "block":"none";
+        return;
+    }
+
+    const ed = new Date(d);
+
+    if(mode=="all") e.style.display="block";
+    else if(mode=="today")
+        e.style.display =
+          ed.toDateString()==today.toDateString()
+          ? "block":"none";
+    else if(mode=="week")
+        e.style.display =
+          (ed>=today && ed<=week)
+          ? "block":"none";
+  })
+}
+</script>
+
+</body>
+</html>

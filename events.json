@@ -1,0 +1,380 @@
+[
+  {
+    "title": "Nova Godina",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-01-01",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Bogojavljenje, Sveta tri kralja",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-01-06",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Uskrs i uskrsni ponedjeljak",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-04-05",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Međunarodni praznik rada",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-05-01",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Dan državnosti",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-05-30",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Tijelovo",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-06-04",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Dan antifašističke borbe",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-06-22",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Velika Gospa",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-08-15",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Dan svih svetih",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-11-01",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Dan sjećanja na žrtve Domovinskog rata",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-11-18",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Prvi dan po Božiću, Sveti Stjepan, Štefanje, Stipanje",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": "2026-12-26",
+    "city": "Zagreb"
+  },
+  {
+    "title": "Program",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Detalji o filmu",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/mildred-pierce/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Mildred Pierce",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/mildred-pierce/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Stranac",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/stranci-2-2/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Kako pojesti Raoula",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/pojesti-raoula/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Miroirs No. 3",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/miroirs-no-3-2/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Otac majka sestra brat",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/otac-majka-sestra-brat/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Točka pucanja",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/tocka-pucanja/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Orkanski visovi",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/orkanski-visovi/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Glavonja",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/glavonja/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Tajni agent",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/tajni-agent-2-2/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Tampopo",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/tampopo/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Hladnoruki kažnjenik",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/hladnoruki-kaznjenik/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Velika noć",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/velika-noc-2/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Ono što treba činiti",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/ono-sto-treba-ciniti-2/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Grabežljivci",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/grabezljivci/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Juhu-hu",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/juhu-hu/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Julie & Julia",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/julie-julia/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Mondo cane",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/pasji-zivot-2/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Krilce ili batak",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/krilce-ili-batak/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Pijte i jedite, ljudi",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/pijte-i-jedite-ljudi/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Tajne kus-kusa",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/tajne-kus-kusa/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Marie Antoinette",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/marie-antoinette/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Veliko žderanje",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/veliko-zderanje/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Babettina gozba",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/babettina-gozba/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Božić",
+    "venue": "javna-dogadjanja",
+    "url": "https://date.nager.at/api/v3/PublicHolidays/2026/HR",
+    "source": "api",
+    "category": "ostalo",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Koncertni ciklus – gradski program",
+    "venue": "koncert",
+    "url": "#",
+    "source": "curated",
+    "category": "koncert",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Kazališna premijera – nova sezona",
+    "venue": "kazalište",
+    "url": "#",
+    "source": "curated",
+    "category": "kazalište",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Muzejska izložba mjeseca",
+    "venue": "muzej",
+    "url": "#",
+    "source": "curated",
+    "category": "muzej",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Festival suvremene umjetnosti",
+    "venue": "festival",
+    "url": "#",
+    "source": "curated",
+    "category": "ostalo",
+    "date": null,
+    "city": "Zagreb"
+  }
+]
