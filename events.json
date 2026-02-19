@@ -117,15 +117,6 @@
     "city": "Zagreb"
   },
   {
-    "title": "Stranac",
-    "venue": "kino",
-    "url": "https://kinokinoteka.hr/program/stranci-2-2/",
-    "source": "https://kinokinoteka.hr/program/",
-    "category": "film",
-    "date": null,
-    "city": "Zagreb"
-  },
-  {
     "title": "Kako pojesti Raoula",
     "venue": "kino",
     "url": "https://kinokinoteka.hr/program/pojesti-raoula/",
@@ -207,6 +198,15 @@
     "city": "Zagreb"
   },
   {
+    "title": "Stranac",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/stranci-2-2/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
     "title": "La Grazia",
     "venue": "kino",
     "url": "https://kinokinoteka.hr/program/la-grazia-2/",
@@ -282,6 +282,15 @@
     "title": "Među bogovima",
     "venue": "kino",
     "url": "https://kinokinoteka.hr/program/medu-bogovima/",
+    "source": "https://kinokinoteka.hr/program/",
+    "category": "film",
+    "date": null,
+    "city": "Zagreb"
+  },
+  {
+    "title": "Sve po spisku",
+    "venue": "kino",
+    "url": "https://kinokinoteka.hr/program/sve-po-spisku/",
     "source": "https://kinokinoteka.hr/program/",
     "category": "film",
     "date": null,
