@@ -29,6 +29,9 @@ jobs:
       - name: Build HTML
         run: python build.py
 
+       - name: Export ICS
+        run: python export_ics.py
+  
       - name: Commit changes
         run: |
           git config --global user.name "bot"
