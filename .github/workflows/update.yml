@@ -8,7 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -29,14 +28,13 @@ jobs:
       - name: Build HTML
         run: python build.py
 
-       - name: Export ICS
+      - name: Export ICS
         run: python export_ics.py
-  
+
       - name: Commit changes
         run: |
           git config --global user.name "bot"
           git config --global user.email "bot@github.com"
-          git add events.json index.html
+          git add events.json index.html events.ics
           git commit -m "auto update" || echo "no changes"
           git push
-          git add events.json index.html events.ics
