@@ -39,3 +39,4 @@ jobs:
           git add events.json index.html
           git commit -m "auto update" || echo "no changes"
           git push
+          git add events.json index.html events.ics
